@@ -9,9 +9,9 @@
   "author": "Justin Colangelo",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^20.5.4",
-    "airbnb": "^0.0.2",
+    "@types/node": "^20.17.12",
+    "airbnb": "0.0.2",
     "eslint-config-airbnb-base": "^15.0.0",
-    "typescript-eslint-parser": "^22.0.0"
+    "typescript-eslint-parser": "^18.0.0"
   }
 }

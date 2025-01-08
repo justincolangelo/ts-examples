@@ -1,7 +1,7 @@
 # Few typescript examples
 
-### using node 17 installed with nvm
-`nvm use 17`
+### using node 22 installed with nvm
+`nvm use 22`
 
 ### install typescript globally if you want or don't
 `npm i -g typescript`
